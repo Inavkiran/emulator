@@ -1,1 +1,159 @@
 
+onclick="window.location.href='Merckumobile_setting.html';"
+
+onclick="window.location.href='Merckumobile_setting_settings.html';"
+onclick="window.location.href='Merckumobile_setting_advance.html';"
+onclick="window.location.href='Merckumobile_setting_upgrade.html';"
+
+
+
+<li onclick="window.location.href='Merckuweb_dashboard.html';" data-v-48b507fe="" class="nav-item">
+                    <div   data-v-48b507fe="" class="nav-item-content">
+                      <i data-v-48b507fe="" class="el-menu-item__icon iconfont icon-ic_home_light1"></i>
+                      <div data-v-48b507fe="" class="nav-item__text">My WiFi</div>
+<!----><i data-v-48b507fe="" class="is-checked"></i>
+</div>
+<!---->
+</li>
+<li  data-v-48b507fe="" class="nav-item selected">
+   <div onclick="window.location.href='Merckumobile_setting_settings.html';" data-v-48b507fe="" class="nav-item-content">
+      <i data-v-48b507fe="" class="el-menu-item__icon iconfont icon-ic_home_settings_selected_light"></i>
+      <div  data-v-48b507fe="" class="nav-item__text">Settings</div>
+      <span data-v-48b507fe="" class="mobile-trangle"></span>
+      <!---->
+   </div>
+   <ul style="display:none;" data-v-48b507fe="" class="nav-item-child reset-ul" style="height: 660px;">
+      <li onclick="window.location.href='Merckuweb_setting_wifi.html';" data-v-48b507fe="" class="nav-child__text">
+         Wi-Fi Settings 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_setting_wan.html';" data-v-48b507fe="" class="nav-child__text">
+         Internet Settings 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_setting_ipv6.html';" data-v-48b507fe="" class="nav-child__text">
+         IPv6 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_setting_adminPassword.html';" data-v-48b507fe="" class="nav-child__text">
+         Admin Password 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_setting_blocklist.html';" data-v-48b507fe="" class="nav-child__text">
+         Blocklist 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_setting_timezone.html';" data-v-48b507fe="" class="nav-child__text">
+         Time Zone 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_setting_region.html';" data-v-48b507fe="" class="nav-child__text">
+         Country/Region 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_setting_guest.html';" data-v-48b507fe="" class="nav-child__text">
+         Guest Wi-Fi 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_setting_upnp.html';" data-v-48b507fe="" class="nav-child__text">
+         UPnP 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_setting_led.html';" data-v-48b507fe="" class="nav-child__text">
+         LED 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_setting_schedule.html';" data-v-48b507fe="" class="nav-child__text">
+         Wi-Fi Off Schedule 
+         <!---->
+      </li>
+   </ul>
+</li>
+<li   data-v-48b507fe="" class="nav-item">
+   <div onclick="window.location.href='Merckumobile_setting_advance.html';" data-v-48b507fe="" class="nav-item-content">
+      <i data-v-48b507fe="" class="el-menu-item__icon iconfont icon-ic_advanced_settings_light"></i>
+      <div data-v-48b507fe="" class="nav-item__text">Advanced Settings</div>
+      <span data-v-48b507fe="" class="mobile-trangle"></span>
+      <!---->
+   </div>
+   <ul style="display:none;" data-v-48b507fe="" class="nav-item-child reset-ul">
+      <li onclick="window.location.href='Merckuweb_advance_portforwarding.html';" data-v-48b507fe="" class="nav-child__text">
+         Port Forwarding 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_dmz.html';" data-v-48b507fe="" class="nav-child__text">
+         DMZ Host 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_dhcp.html';" data-v-48b507fe="" class="nav-child__text">
+         DHCP 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_staticdhcp.html';" data-v-48b507fe="" class="nav-child__text">
+         Static DHCP Lease 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_mac.html';" data-v-48b507fe="" class="nav-child__text">
+         Clone MAC Address 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_ddns.html';"  data-v-48b507fe="" class="nav-child__text">
+         DDNS 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_vpn.html';" data-v-48b507fe="" class="nav-child__text">
+         VPN 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_mode.html';" data-v-48b507fe="" class="nav-child__text">
+         Network Mode 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_diagnosis.html';" data-v-48b507fe="" class="nav-child__text">
+         Network Diagnosis 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_log.html';" data-v-48b507fe="" class="nav-child__text">
+         System Log 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_firewall.html';" data-v-48b507fe="" class="nav-child__text">
+         Firewall 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_wwa.html';" data-v-48b507fe="" class="nav-child__text">
+         Web WAN Access 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_tr069.html';" data-v-48b507fe="" class="nav-child__text">
+         TR-069 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_advance_.html';" data-v-48b507fe="" class="nav-child__text">
+         Backup and restore 
+         <!---->
+      </li>
+   </ul>
+</li>
+<li  data-v-48b507fe="" class="nav-item">
+   <div onclick="window.location.href='Merckumobile_setting_upgrade.html';" data-v-48b507fe="" class="nav-item-content">
+      <i data-v-48b507fe="" class="el-menu-item__icon iconfont icon-ic_upgrade_firmware_light1"></i>
+      <div  data-v-48b507fe="" class="nav-item__text">Upgrade Firmware</div>
+      <span data-v-48b507fe="" class="mobile-trangle"></span>
+      <!---->
+   </div>
+   <ul style="display:none;" data-v-48b507fe="" class="nav-item-child reset-ul" >
+      <li onclick="window.location.href='Merckuweb_upgrade_online.html';" data-v-48b507fe="" class="nav-child__text">
+         Online Upgrade 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_upgrade_offline.html';" data-v-48b507fe="" class="nav-child__text">
+         Offline Upgrade 
+         <!---->
+      </li>
+      <li onclick="window.location.href='Merckuweb_upgrade_auto.html';" data-v-48b507fe="" class="nav-child__text">
+         Automatic Upgrade 
+         <!---->
+      </li>
+   </ul>
+</li>
